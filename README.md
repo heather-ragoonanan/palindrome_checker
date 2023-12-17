@@ -8,7 +8,7 @@ ____________________________________
 
 PALINDROME CHECKER
 
-I have created three different codes:
+I have created three different codes, using Python:
 
 1) To see if a word is a palindrome or not.
 2) To see how many palindromes there are, in a range of numbers.
